@@ -1,6 +1,6 @@
-#Hack 4g là gì?
+# Hack 4g là gì?
 Hack 4g là tên gọi chung của việc sử dụng data nhà mạng mà không cần trả bất kỳ khoản chi phí nào, nó cũng là hình thức payload 4g nhà mạng thông qua giao thức vpn có hỗ trợ payload
-#hack 4g có dễ không?
+# hack 4g có dễ không?
 Hack 4g vô cùng dễ dàng, và tuỳ thuộc vào app mà các bạn đang sử dụng, cũng như nhà mạng, và khu vực vùng sóng, tuy nhiên để đạt hiệu quả tố nhất
 Cho việc hack 4g bạn nên sử dụng các phần mềm dưới đây
 
